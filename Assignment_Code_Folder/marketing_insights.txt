@@ -1,0 +1,16 @@
+MARKETING INSIGHTS REPORT
+========================================
+
+Total Customers: 500
+Total Revenue: $2,651,548.36
+Average Customer Lifetime Value: $5,303.10
+
+KEY INSIGHTS:
+- High-value customers contribute a disproportionate share of revenue.
+- Repeat customers show significantly higher average order values.
+- Desktop users tend to spend more per transaction than mobile users.
+
+RECOMMENDATIONS:
+- Focus retention campaigns on high-value and at-risk customers.
+- Incentivize repeat purchases with loyalty rewards.
+- Optimize desktop checkout experience to maximize conversions.
